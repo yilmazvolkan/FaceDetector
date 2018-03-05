@@ -1,7 +1,7 @@
 # FaceDetector
 <p align="center">
 <a href = "https://github.com/yilmazvolkan/FaceDetector"><img 
-<img src="https://github.com/yilmazvolkan/FaceDetector/blob/master/Res/faceDetector_logo.png" width="440" height="150"></a>
+<img src="https://github.com/yilmazvolkan/FaceDetector/blob/master/Res/faceDetector_logo.png" width="470" height="150"></a>
 </p>
 
 <p align="center">
