@@ -56,6 +56,13 @@ To goal is find all features to classify all faces and non-faces correctly. Usin
 <img src="https://github.com/yilmazvolkan/FaceDetector/blob/master/Res/results%20.png" width="640" height="210"></a>
 </p>
 
+## :blue_book: Readings
+
+You can reach more information about object detection using a boosted cascade of simple features article by clicking on this [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.10.6807&rep=rep1&type=pdf).
+
+Another good article about boosting image retrieval is accesible by clicking on this [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.2419&rep=rep1&type=pdf).
+
+
 ## :beers: Contributers
 
 
