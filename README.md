@@ -19,6 +19,10 @@
     </a>
 </p>
 
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+## :flashlight: Before You Go
+
+You need to install openCV library on Python. You can reach this library using this[link](https://github.com/opencv/opencv).
 
 ## :tophat: Introduction
 
