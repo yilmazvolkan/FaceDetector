@@ -6,26 +6,28 @@
 
 <p align="center">
     <a href="https://github.com/yilmazvolkan/FaceDetector/blob/master/README.md">
-        <img src="https://img.shields.io/badge/DESCRIPTION-ONLINE-c8c297.svg"
+        <img src="https://img.shields.io/badge/DESCRIPTION-ONLINE-c2bc8c.svg"
              alt="Description">
     </a>
     <a href="https://github.com/yilmazvolkan/FaceDetector/blob/master/Res/face_recognition.py">
-        <img src="https://img.shields.io/badge/Python-ONLINE-b7af75.svg"
+        <img src="https://img.shields.io/badge/Python-ONLINE-b1a86a.svg"
              alt="Python">
     </a>
+    <a href="https://github.com/opencv/opencv/tree/master/data/haarcascades">
+        <img src="https://img.shields.io/badge/HaarCascade-Link-988f50.svg"
+             alt="HaarCascade">
+    </a>
     <a href="https://github.com/yilmazvolkan/FaceDetector/issues?q=is%3Aissue+is%3Aclosed">
-        <img src="https://img.shields.io/badge/ISSUES 3-CLOSED-a39a56.svg"
+        <img src="https://img.shields.io/badge/ISSUES 3-CLOSED-827a44.svg"
              alt="Issues">
     </a>
 </p>
 
-https://github.com/opencv/opencv/tree/master/data/haarcascades
 ## :flashlight: Before You Go
 
-You need to install openCV library on Python. You can reach this library using this[link](https://github.com/opencv/opencv).
+You need to install openCV library on Python. You can reach this library clicking on this [link](https://github.com/opencv/opencv).
 
 ## :tophat: Introduction
-
 
   Face detection substantially gains importance since their usage areas are getting wider. These days face detection is used in banks and smartphones to provide more secure systems, in social media and dating apps to match people and tag people easily, and even at schools to take attendance. It is also used in person emolojis with reflecting your shape and mood when you record.
   
@@ -53,11 +55,6 @@ To goal is find all features to classify all faces and non-faces correctly. Usin
 <a href = "https://github.com/yilmazvolkan/FaceDetector/blob/master/Res/results%20.png"><img 
 <img src="https://github.com/yilmazvolkan/FaceDetector/blob/master/Res/results%20.png" width="640" height="210"></a>
 </p>
-
-## :blue_book: Basic Questions
-
-
-
 
 ## :beers: Contributers
 
